@@ -1,6 +1,6 @@
 {
-    "name": "Nikholas Pcenicni",
-    "version": "1.0",
+    "name": "nikpcenicni",
+    "version": "1.1.1",
     "author": "Nikholas Pcenicni <nik@pcenicni.dev> (https://pcenicni.dev)",
     "description": "A personal card for Nikholas Pcenicni",
     "main": "card.js",
