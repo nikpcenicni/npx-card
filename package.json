@@ -1,13 +1,13 @@
 {
-    "name": "rahikhan",
-    "version": "2.2.2",
-    "author": "Rahi Khan <rahikhan360@gmail.com> (https://rahikhan.gtsb.io)",
-    "description": "A personal card for Rahi Khan",
+    "name": "Nikholas Pcenicni",
+    "version": "1.0",
+    "author": "Nikholas Pcenicni <nik@pcenicni.dev> (https://pcenicni.dev)",
+    "description": "A personal card for Nikholas Pcenicni",
     "main": "card.js",
     "bin": "./card.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rahi-khan/npx_card.git"
+        "url": "https://github.com/nikpcenicni/npx_card.git"
     },
     "scripts": {
         "setup": "ncu -u && npm i",
